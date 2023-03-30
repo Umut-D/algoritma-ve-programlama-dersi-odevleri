@@ -11,5 +11,5 @@ Bu repo, Algoritma ve Programlama (2023 Bahar) dersinde verilen ödevler ve çö
 ## Ödevleri Kodlarken
 
 1. Yorum alanları kullanınız,
-2. Sözde kod (Psuedo kod) kullanarak algoritmik adımlamalar yapınız,
+2. Sözde kod (Psuedo code) kullanarak algoritmik adımlamalar yapınız,
 3. Düzgün değişken adları seçiniz.
