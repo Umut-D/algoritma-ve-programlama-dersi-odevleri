@@ -1,0 +1,1 @@
+# Karenin alanını hesaplayınız
