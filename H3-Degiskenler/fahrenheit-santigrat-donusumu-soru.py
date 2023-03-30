@@ -1,0 +1,1 @@
+# Fahrenheit'i, Santigrat'a dönüştüren bir kod yazınız
