@@ -1,0 +1,1 @@
+# Santigrat>Fahrenheit dönüşümü

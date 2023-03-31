@@ -1,1 +1,1 @@
-# Üçgenin alanını hesaplayınız
+# Üçgenin alanı

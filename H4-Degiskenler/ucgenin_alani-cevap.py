@@ -1,4 +1,4 @@
-# Üçgenin alanını hesaplayınız
+# Üçgenin alanı
 
 # Değerleri al
 taban, yukseklik = 5, 7

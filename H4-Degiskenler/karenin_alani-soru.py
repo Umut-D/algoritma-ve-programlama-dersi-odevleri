@@ -1,4 +1,4 @@
-# Karenin alanını hesaplayınız
+# Karenin alanı
 
 # Değeri al
 kenar_uzunlugu = 4

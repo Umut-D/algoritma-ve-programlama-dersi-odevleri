@@ -1,1 +1,1 @@
-# Dikdörtgenin alan ve çevresini bulunuz
+# Dikdörtgenin alan ve çevresi

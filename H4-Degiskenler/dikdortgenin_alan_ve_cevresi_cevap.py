@@ -1,4 +1,4 @@
-# Dikdörtgenin alan ve çevresini bulunuz
+# Dikdörtgenin alan ve çevresi
 
 # Kenar değerlerini al
 uzun_kenar = 5

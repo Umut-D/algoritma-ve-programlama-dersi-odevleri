@@ -1,0 +1,1 @@
+# Girilen 2 sayının toplamı

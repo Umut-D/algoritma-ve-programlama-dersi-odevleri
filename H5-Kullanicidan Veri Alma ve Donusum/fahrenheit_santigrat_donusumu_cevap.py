@@ -1,10 +1,10 @@
 # Fahrenheit>Santigrat dönüşümü
 
-# Fahrenheit değerini gir
-fahrenheit = 79
+# Fahrenheit değerini al
+fahrenheit = int(input("Fahrenheit değerini girin: "))
 
 # Gerekli dönüşüm formülünü bularak işlemi gerçekle
 celsius_donusumu = (fahrenheit - 32) / 1.8
 
 # Sonucu yazdir
-print(fahrenheit, "Fahrenheit,", celsius_donusumu, "derecedir")
+print(f"{fahrenheit} Fahrenheit, {celsius_donusumu} derecedir")
