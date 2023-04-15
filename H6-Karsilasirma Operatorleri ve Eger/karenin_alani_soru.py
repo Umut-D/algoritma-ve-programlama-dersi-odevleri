@@ -1,0 +1,1 @@
+# Karenin alanını hesaplayın (Negatif olursa işlemi iptal et)

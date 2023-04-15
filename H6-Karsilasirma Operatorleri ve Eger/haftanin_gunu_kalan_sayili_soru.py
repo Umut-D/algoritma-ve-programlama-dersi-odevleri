@@ -1,0 +1,1 @@
+# Haftanın hangi günü olduğunu bulan bir yapı oluşturun (Kontrol mekanizmasız yapın - kalan sayısını kullanarak yapın)

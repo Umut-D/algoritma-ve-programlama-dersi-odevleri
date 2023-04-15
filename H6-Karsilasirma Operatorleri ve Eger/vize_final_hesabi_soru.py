@@ -1,0 +1,1 @@
+# Vizenin %40'ı, finalin %60'ını alarak geçti-kaldı yazdır (Operatör zincirleme ile yapın)

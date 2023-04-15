@@ -1,0 +1,1 @@
+# Web sitesine girerken yaş kontrolü yapınız (18'den büyük mü)
