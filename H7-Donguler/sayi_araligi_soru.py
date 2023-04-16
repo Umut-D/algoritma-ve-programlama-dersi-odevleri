@@ -1,0 +1,1 @@
+# Girilen 2 sayının arasını yaz (örn. 80-90 arası sayıları yazdırın)

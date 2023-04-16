@@ -1,0 +1,1 @@
+# 1'dan n'ye kadar olan çift sayıları yazdır
