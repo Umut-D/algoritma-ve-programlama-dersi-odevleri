@@ -1,0 +1,1 @@
+# Bir dizi içerisinde verilen notların ortalamasını alın

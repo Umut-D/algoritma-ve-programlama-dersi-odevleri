@@ -1,0 +1,1 @@
+# Harfleri, yazıdaki gibi alt alta yaz

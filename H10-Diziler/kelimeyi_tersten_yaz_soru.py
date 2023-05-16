@@ -1,0 +1,1 @@
+# Kelimeyi tersten yazınız
