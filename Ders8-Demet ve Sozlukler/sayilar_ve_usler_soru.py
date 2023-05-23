@@ -1,0 +1,1 @@
+# Her bir sayı ve karesini programlamatik olarak oluşturup bunları tek tek yazdırın

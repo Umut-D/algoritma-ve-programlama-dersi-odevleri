@@ -1,0 +1,1 @@
+# Girilen plaka koduna denk gelen şehri yazdırın
