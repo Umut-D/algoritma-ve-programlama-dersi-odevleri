@@ -1,0 +1,1 @@
+# 1 ila 49 arasında 6 farklı değer oluşturan ve bunu dizi olarak geri döndüren bir fonksiyon yazınız

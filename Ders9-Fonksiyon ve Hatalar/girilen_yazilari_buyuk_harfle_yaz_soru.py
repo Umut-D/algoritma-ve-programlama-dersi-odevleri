@@ -1,0 +1,1 @@
+# Girilen yazıları büyük harfle yazınız

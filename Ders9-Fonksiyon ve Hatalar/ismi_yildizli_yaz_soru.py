@@ -1,0 +1,1 @@
+# İsimleri yıldızlı şekilde yazınız

@@ -1,0 +1,1 @@
+# Girilen dizideki sayıların ortalamasını alıp döndürün

@@ -1,0 +1,1 @@
+# Verileri konsoldan otomatik okutun
