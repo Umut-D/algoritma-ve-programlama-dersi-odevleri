@@ -1,0 +1,1 @@
+# Gereksinimleri düşünüp Üçgen ve Çember sınıflarını oluşturup hesaplamalar yapınız
